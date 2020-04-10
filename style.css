@@ -1,0 +1,12 @@
+p {
+  background: #0D91A1;
+  color: #015668;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 30px;
+  padding-left: 40px;
+  width: 200px;
+  border: 5px solid #7DCE94;
+  font-family: 'Spicy Rice', cursive;
+  font-size: x-large
+}
